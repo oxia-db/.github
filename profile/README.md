@@ -16,6 +16,10 @@ Oxia is a robust, scalable metadata store and coordination system designed for l
 
  * https://github.com/oxia-db/oxia-client-java
 
+### Python Client SDK
+
+ * https://github.com/oxia-db/oxia-client-python
+
 ## Contributing to Oxia
 
 Please 🌟 star the project if you like it. 
