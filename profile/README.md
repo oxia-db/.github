@@ -20,6 +20,10 @@ Oxia is a robust, scalable metadata store and coordination system designed for l
 
  * https://github.com/oxia-db/oxia-client-python
 
+### Node.js Client SDK
+
+ * https://github.com/oxia-db/oxia-client-node
+
 ### Rust/C Client SDK
 
  * https://github.com/oxia-db/liboxia 
