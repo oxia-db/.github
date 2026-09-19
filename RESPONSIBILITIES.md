@@ -2,11 +2,11 @@
 
 ## Overview
 
-This document explains who maintainers are, what they do, and how they should be doing it. If you're interested in contributing, see [CONTRIBUTING](https://github.com/oxia-db/.github/blob/master/CONTRIBUTING.md).
+This document explains who maintainers are, what they do, and how they should be doing it. If you're interested in contributing, see [CONTRIBUTING](https://github.com/oxia-db/.github/blob/main/CONTRIBUTING.md).
 
 ## Current Maintainers
 
-[MAINTAINERS.md]() lists current maintainers.
+[MAINTAINERS.md](https://github.com/oxia-db/oxia/blob/main/MAINTAINERS.md) lists current maintainers.
 
 ## Maintainer Responsibilities
 
@@ -15,7 +15,7 @@ Maintainers are active and visible members of the community, and have [maintain-
 * Uphold Code of Conduct
 * Model the behavior set forward by the Code of Conduct and raise any violations to other maintainers and admins.
 * Prioritize Security
-* Security is your number one priority. Maintainer's Github keys must be password protected securely and any reported security vulnerabilities are addressed before features or bugs. Note that this repository is monitored and supported 24/7 by Amazon Security, see [Reporting a Vulnerability](https://github.com/opensearch-project/.github/blob/main/SECURITY.md) for details.
+* Security is your number one priority. Maintainer's Github keys must be password protected securely and any reported security vulnerabilities are addressed before features or bugs. See the [Oxia security policy](https://github.com/oxia-db/oxia/blob/main/SECURITY.md) for how vulnerabilities are reported and handled.
 * Review pull requests regularly, comment, suggest, reject, merge and close. Accept only high quality pull-requests.
 *  Provide code reviews and guidance on incoming pull requests. Don't let PRs be stale and do your best to be helpful to contributors.
 * Triage Open Issues
